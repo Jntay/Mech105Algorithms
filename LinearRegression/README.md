@@ -1,4 +1,4 @@
-#Linear Regression
+# Linear Regression
 ---
 
  - Creates a line of least squares linear regression based off of data
