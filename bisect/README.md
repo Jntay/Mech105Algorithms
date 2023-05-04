@@ -2,7 +2,7 @@
 ---
 uses bisection method to determine roots of a function
 
-input:
+**input:**
 
 func - function name
 
@@ -14,7 +14,7 @@ maxit - amount of iterations (default to 50)
 
 
 
-output:
+**output:**
 
 root - x-value of root approximation
 
