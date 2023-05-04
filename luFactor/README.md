@@ -15,4 +15,7 @@ LU decomposition with pivotiing
 - P = the permutation matrix
 
 ### To use:
-\[L, A, P\] = luFactor\(coefficient matrix name\)
+
+In MATLAB, type:
+
+\[L, A, P\] = luFactor\(*coefficient matrix name*\)

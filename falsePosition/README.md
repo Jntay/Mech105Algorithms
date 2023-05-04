@@ -24,3 +24,9 @@ uses false position method to determine roots of a function
 - ea - approximate relative error in %
 
 - iter - number of iterations done
+
+### To use:
+
+In MATLAB, type:
+
+\[root, fx, ea, iter\] = falsePosition\(*functionName,lowerBound,upperBound,desiredError,maximumIterations,additionalParameters*\)

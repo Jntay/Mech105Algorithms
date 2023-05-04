@@ -22,3 +22,9 @@
  - intercept: intercept from the linear regression line
 
  - Rsquared: coefficient of determination
+
+### To use:
+
+In MATLAB, type:
+
+\[fX, fY, slope, intercept, Rsquared\] = linearRegression\(*independentVarMatrix, dependentVarMatrix*\)

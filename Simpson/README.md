@@ -11,3 +11,9 @@ Numerical evaluation of integral by Simpson's 1/3 Rule Including Trapizoid Rule
 **Outputs:**
 
 - I = the numerical integral calculated
+
+### To use:
+
+In MATLAB, type:
+
+\[I\] = Simpson\(*x-matrix, y-matrix*\)

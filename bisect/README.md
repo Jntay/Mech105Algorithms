@@ -23,3 +23,9 @@ uses bisection method to determine roots of a function
 - ea - approximate relative error in
 
 - iter - number of iterations done
+
+### To use:
+
+In MATLAB, type:
+
+\[root,fx,ea,iter\] = bisect\(*function_name,lowerBound,upperBound,desiredError,maximumIterations*\)
