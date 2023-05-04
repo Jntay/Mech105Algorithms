@@ -13,3 +13,6 @@ LU decomposition with pivotiing
 - U = upper triangular matrix
 
 - P = the permutation matrix
+
+### To use:
+\[L, A, P\] = luFactor\(coefficient matrix name\)
