@@ -1,4 +1,4 @@
-#LuFactor
+# LuFactor
 ---
 LU decomposition with pivotiing
 

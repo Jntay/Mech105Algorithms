@@ -1,4 +1,4 @@
-#Simpson
+# Simpson
 ---
 Numerical evaluation of integral by Simpson's 1/3 Rule Including Trapizoid Rule
 

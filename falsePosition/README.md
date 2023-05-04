@@ -1,4 +1,4 @@
-#falsePosition
+# falsePosition
 ---
 uses false position method to determine roots of a function
 
